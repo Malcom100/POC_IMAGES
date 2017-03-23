@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My_POC</string>
+    <string name="action_settings">Paramètres</string>
+
+    <string name="btn_picture">Mes photos</string>
+    <string name="take_photo">Prendre une photo</string>
+    <string name="pick_file">Charger une photo</string>
+</resources>
